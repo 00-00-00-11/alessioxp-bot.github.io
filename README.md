@@ -1,2 +1,2 @@
-# sudup.github.io
-The website of the Discord bot Sudup
+# alessioxp-bot.github.io
+The website of the Discord bot AlessioXP
